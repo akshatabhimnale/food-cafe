@@ -315,7 +315,7 @@ li:hover {
 }
 .container7 {
   object-fit: cover;
-  background-image: url("/assets/container7bg.png");
+  background-image: url("./assets/container7bg.png");
   background-size: 100% 100%;
   display: flex;
   flex-direction: row;
